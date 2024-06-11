@@ -1,0 +1,15 @@
+I:\loadbin\src\bin\Debug\net8.0-windows\loadbinary.exe
+I:\loadbin\src\bin\Debug\net8.0-windows\loadbinary.deps.json
+I:\loadbin\src\bin\Debug\net8.0-windows\loadbinary.runtimeconfig.json
+I:\loadbin\src\bin\Debug\net8.0-windows\loadbinary.dll
+I:\loadbin\src\bin\Debug\net8.0-windows\loadbinary.pdb
+I:\loadbin\src\obj\Debug\net8.0-windows\loadbinary.GeneratedMSBuildEditorConfig.editorconfig
+I:\loadbin\src\obj\Debug\net8.0-windows\loadbinary.AssemblyInfoInputs.cache
+I:\loadbin\src\obj\Debug\net8.0-windows\loadbinary.AssemblyInfo.cs
+I:\loadbin\src\obj\Debug\net8.0-windows\loadbinary.csproj.CoreCompileInputs.cache
+I:\loadbin\src\obj\Debug\net8.0-windows\loadbinary.sourcelink.json
+I:\loadbin\src\obj\Debug\net8.0-windows\loadbinary.dll
+I:\loadbin\src\obj\Debug\net8.0-windows\refint\loadbinary.dll
+I:\loadbin\src\obj\Debug\net8.0-windows\loadbinary.pdb
+I:\loadbin\src\obj\Debug\net8.0-windows\loadbinary.genruntimeconfig.cache
+I:\loadbin\src\obj\Debug\net8.0-windows\ref\loadbinary.dll
